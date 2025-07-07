@@ -1,4 +1,4 @@
-# Rainy Day Algorithms: JavaScript
+# Rainy Day Algorithms: Python
 This repository contains solutions for coding practice problems. Additionally, you 
 will find some unit tests to accompany the solutions.
 
