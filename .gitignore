@@ -1,0 +1,11 @@
+# Mac DS Store Stuff
+.DS_Store
+.vs
+
+# VS Code
+.vscode/*
+
+# Python Stuff
+*/__pycache__/*
+/rainy_day/__pycache__/*
+/rainy_day/solutions/__pycache__/*
