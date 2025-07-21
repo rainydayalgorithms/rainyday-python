@@ -1,5 +1,8 @@
 from typing import List
 
+# FIZZ BUZZ
+# Return "Fizz" if number is divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by 3 and 5
+
 # FIZZ BUZZ: Basic
 # This solution returns a single value for fizz buzz
 
@@ -16,7 +19,7 @@ def fizzBuzz(num: int) -> str:
   else:
     return str(num)
   
-# FIZZ BUZZ: Basic
+# FIZZ BUZZ: Full List
 # This solution returns a list of every fizz buzz answer from 1 to n
   
 def fizzBuzzList(n: int) -> List[str]:
